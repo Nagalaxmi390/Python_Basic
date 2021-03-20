@@ -1,0 +1,11 @@
+problem:to get the number of possible sub arrays with the same sum in the given array.Here we need to covel all the elements in the array.
+Input:[5,3,2,4,1]
+output:Yes
+process:[5],[3,2],[4,1]
+       :here all subsets gives same sum
+hence the 3 sub arrays are there
+ans.Yes
+ 
+Input:[5,1,2]
+output:No
+here no ways toget the sum equal sub arrays.
